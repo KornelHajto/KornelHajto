@@ -38,7 +38,7 @@ I'm a passionate full-stack developer with experience in embedded C++ developmen
 
 ## 📈 GitHub Stats
 
-![Kornél's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Kornél's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KornelHajto&show_icons=true&theme=default)
 
 ---
 
