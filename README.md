@@ -1,8 +1,14 @@
-# 👋 Hi there, I'm Kornél Hajtó
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Kornél Hajtó</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast</h3>
+<p align="center">📍 Veszprém, Hungary</p>
 
-🎓 Full-Stack Developer | Cybersecurity Enthusiast  
-📍 Veszprém, Hungary  
-📧 [kornelhajto2004@gmail.com](mailto:kornelhajto2004@gmail.com)
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:kornelhajto2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/korn%C3%A9l-hajt%C3%B3-486141273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://sveltefolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge"/></a>
+</p>
 
 ---
 
@@ -38,13 +44,18 @@ I'm a passionate full-stack developer with experience in embedded C++ developmen
 
 ## 📈 GitHub Stats
 
-![Kornél's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KornelHajto&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KornelHajto&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KornelHajto&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KornelHajto&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-
-Feel free to reach out for collaborations or just a friendly hello!
+<p align="center">
+  <a href="mailto:kornelhajto2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/korn%C3%A9l-hajt%C3%B3-486141273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://sveltefolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio Badge"/></a>
+</p>
